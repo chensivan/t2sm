@@ -14,3 +14,4 @@ To test it
 
 ```npm test```
 
+To use it, include built -> bundle.js in the index.html
